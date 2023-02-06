@@ -50,7 +50,7 @@ header > p {
     color: aliceblue;
     font-family: var(--font-padrao);
     font-size: 1.2em;
-    width: 600px;
+    maw-width: 350px;
     padding-right: 10px;
     padding-left: 10px;
     margin: auto;
